@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Eunbi",
+      "birth_date": "1995-09-27",
+      "Position": "Leader, Main Dancer, Lead Vocalist",
+      "International": "South Korea",
+      "Team": "Woollim Entertainment",
+      "Poster": "https://kepoper.com/wp-content/uploads/2020/01/8e80e43204d0205d5869e475eabc6b24-e1578383742837.png"
+    },
+    {
+      "no": "2",
+      "name": "Sakura",
+      "birth_date": "1998-03-19",
+      "Position": "Sub Vocalist, Visual",
+      "International": "Japan",
+      "Team": "Vernalossom",
+      "Poster": "https://kepoper.com/wp-content/uploads/2020/01/D1uwRoIUYAAJZcd-removebg-preview-e1578385070739.png"
+    },
+    {
+      "no": "3",
+      "name": "Hyewon",
+      "birth_date": "1999-07-05",
+      "Position": "Lead Rapper, Sub Vocalist, Visual",
+      "International": "South Korea",
+      "Team": "8D Creative",
+      "Poster": "https://kepoper.com/wp-content/uploads/2020/01/5278442df55879352675c80128aef384-removebg-preview-e1578387416808.png"
+    },
+    {
+      "no": "4",
+      "name": "Yena",
+      "birth_date": "1999-09-29",
+      "Position": "Main Rapper, Lead Dancer, Sub Vocalist",
+      "International": "South Korea",
+      "Team": "Yuehua Entertainment",
+      "Poster": "https://kepoper.com/wp-content/uploads/2020/01/a3c21ce4d4cb89ec3ca3d87899bad5bb-removebg-preview-e1578388542571.png"
+    },
+    {
+      "no": "5",
+      "name": "Chaeyeon",
+      "birth_date": "2000-01-11",
+      "Position": "Main Dancer, Lead Vocalist, Rapper",
+      "International": "South Korea",
+      "Team": "WM Entertainment",
+      "Poster": "https://kepoper.com/wp-content/uploads/2020/01/508313674941445468c47efe94d24cee-removebg-preview-e1578446884874.png"
+    },
+    {
+      "no": "6",
+      "name": "Chaewon",
+      "birth_date": "2000-08-01",
+      "Position": "Main Vocalist, Lead Dancer",
+      "International": "South Korea",
+      "Team": "Woollim Entertainment",
+      "Poster": "https://kepoper.com/wp-content/uploads/2020/01/065b762086bc3088cf3b96e778b7c3ab-removebg-preview-e1578448813274.png"
+    },
+    {
+      "no": "7",
+      "name": "Minju",
+      "birth_date": "2001-02-05",
+      "Position": "Lead Rapper, Sub Vocalist, Visual",
+      "International": "South Korea",
+      "Team": "Urban Works",
+      "Poster": "https://kepoper.com/wp-content/uploads/2020/01/b6d3c39e47da99c56f5d5ba0817a1d34-removebg-preview-e1578449925655.png"
+    },
+    {
+      "no": "8",
+      "name": "Nako",
+      "birth_date": "2001-06-18",
+      "Position": "Sub Vocalist",
+      "International": "Japan",
+      "Team": "Vernalossom",
+      "Poster": "https://kepoper.com/wp-content/uploads/2020/01/fd184a2c962c2e22623a7387c969a99e-removebg-preview-e1578451019198.png"
+    },
+    {
+      "no": "9",
+      "name": "Hitomi",
+      "birth_date": "2001-10-06",
+      "Position": "Sub Vocalist, Lead Dancer",
+      "International": "Japan",
+      "Team": "Vernalossom",
+      "Poster": "https://kepoper.com/wp-content/uploads/2020/01/Dv_u-tLU0AAu076-removebg-preview-e1578452293456.png"
+    },
+    {
+      "no": "10",
+      "name": "Yuri",
+      "birth_date": "2001-10-22",
+      "Position": "Main Vocalist",
+      "International": "South Korea",
+      "Team": "Stone Music Entertainment",
+      "Poster": "https://kepoper.com/wp-content/uploads/2020/01/1546529190-removebg-preview-e1578457234755.png"
+    }
+  ]
+}
