@@ -1,0 +1,84 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Pizza",
+      "category": "Fast Food",
+      "origin": "Italy",
+      "ingredients": "Dough, Tomato Sauce, Cheese, Toppings",
+      "Poster": "https://www.eatingwell.com/thmb/k3RhYf4XhAeqAejYjdInOlSOp6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages-1124303516-36413b5bf61f45f1b7d18d90000b56b7.jpg"
+    },
+    {
+      "no": "2",
+      "name": "Sushi",
+      "category": "Japanese Cuisine",
+      "origin": "Japan",
+      "ingredients": "Rice, Fish, Seaweed, Vegetables",
+      "Poster": "https://sushiincorporated.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-13-at-3.24.04-PM.png"
+    },
+    {
+      "no": "3",
+      "name": "Burger",
+      "category": "Fast Food",
+      "origin": "USA",
+      "ingredients": "Bun, Beef Patty, Lettuce, Tomato, Cheese",
+      "Poster": "https://www.lanascooking.com/wp-content/uploads/2009/03/homestyle-burgers-1200-feature.jpg"
+    },
+    {
+      "no": "4",
+      "name": "Pasta",
+      "category": "Italian Cuisine",
+      "origin": "Italy",
+      "ingredients": "Pasta, Tomato Sauce, Cheese, Meat",
+      "Poster": "https://feelgoodfoodie.net/wp-content/uploads/2023/04/Pasta-Bolognese-TIMG-500x500.jpg"
+    },
+    {
+      "no": "5",
+      "name": "Tacos",
+      "category": "Mexican Cuisine",
+      "origin": "Mexico",
+      "ingredients": "Tortilla, Meat, Cheese, Lettuce, Salsa",
+      "Poster": "https://www.thecookierookie.com/wp-content/uploads/2023/04/featured-quesabirria-tacos-recipe.jpg"
+    },
+    {
+      "no": "6",
+      "name": "Paella",
+      "category": "Spanish Cuisine",
+      "origin": "Spain",
+      "ingredients": "Rice, Seafood, Chicken, Vegetables, Saffron",
+      "Poster": "https://images.immediate.co.uk/production/volatile/sites/30/2018/06/Oven-paella-5d16b06.jpg?resize=768,574"
+    },
+    {
+      "no": "7",
+      "name": "Croissant",
+      "category": "Bakery",
+      "origin": "France",
+      "ingredients": "Flour, Butter, Yeast, Sugar",
+      "Poster": "https://static01.nyt.com/images/2021/04/07/dining/06croissantsrex1/06croissantsrex1-square640.jpg"
+    },
+    {
+      "no": "8",
+      "name": "Dim Sum",
+      "category": "Chinese Cuisine",
+      "origin": "China",
+      "ingredients": "Dough, Meat, Vegetables, Seafood",
+      "Poster": "https://cdn.yummy.co.id/content-images/images/20211216/302IHuy9OR3H7VzMKI4rE5zQyQGeggWl-31363339363432353330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp"
+    },
+    {
+      "no": "9",
+      "name": "Pad Thai",
+      "category": "Thai Cuisine",
+      "origin": "Thailand",
+      "ingredients": "Rice Noodles, Shrimp, Tofu, Peanuts, Lime",
+      "Poster": "https://inquiringchef.com/wp-content/uploads/2023/02/Authentic-Pad-Thai_square-1908.jpg"
+    },
+    {
+      "no": "10",
+      "name": "Ratatouille",
+      "category": "French Cuisine",
+      "origin": "France",
+      "ingredients": "Eggplant, Zucchini, Tomato, Bell Pepper, Onion",
+      "Poster": "https://www.howtocook.recipes/wp-content/uploads/2021/05/Ratatouille-recipe.jpg"
+    }
+  ]
+}
